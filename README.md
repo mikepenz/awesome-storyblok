@@ -66,6 +66,7 @@ The Only Headless CMS with a Visual Editor.
 
 - [Storyblok](https://www.storyblok.com) - The awesome website of the Storyblok (of course).
 - [SZ Brandstudio](https://www.sz-brandstudio.de/de/) - Agency website of SZ Brandstudio.
+- [Next Story](https://nextstory.marcopontili.com) - Next.js and Storyblok demo: one campaign id from the CMS through the lead into HubSpot and Matomo.
 
 ### Ambassadors
 
